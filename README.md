@@ -5,7 +5,7 @@ This is a modern eCommerce website for sports equipment, designed with a sleek a
 ## Features
 
 - **Beautiful Design**: 
-  - A visually appealing and responsive design with a 3rd effects that adapts to all screen sizes.
+  - A visually appealing and responsive design with a 3d effects that adapts to all screen sizes.
   - A minimalist, user-friendly interface that focuses on the shopping experience.
 
 - **Color Palette**: 
