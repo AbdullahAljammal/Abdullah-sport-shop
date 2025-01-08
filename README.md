@@ -5,7 +5,7 @@ This is a modern eCommerce website for sports equipment, designed with a sleek a
 ## Features
 
 - **Beautiful Design**: 
-  - A visually appealing and responsive design that adapts to all screen sizes.
+  - A visually appealing and responsive design with a 3rd effects that adapts to all screen sizes.
   - A minimalist, user-friendly interface that focuses on the shopping experience.
 
 - **Color Palette**: 
@@ -15,9 +15,7 @@ This is a modern eCommerce website for sports equipment, designed with a sleek a
   - **Cart Functionality**: Users can add items to their cart, view item details, and adjust quantities.
   - **Checkout Process**: Secure checkout with form fields for user information and payment details.
 
-- **Third-Party Design**: 
-  - The website incorporates a third-party design layout, ensuring a unique and innovative shopping interface.
-  - Clean typography and easy-to-navigate elements make shopping efficient.
+
 
 ## Technologies Used
 
